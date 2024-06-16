@@ -7,3 +7,35 @@
   margin: 0px;
   background-color: white;
 }
+
+.pie {
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: center;
+}
+
+.pie ul {
+  margin: 0px;
+}
+
+.pie ul li {
+  display: inline-block;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.corporativo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.corporativo a {
+  color: dimgray;
+}
+
+.pie p {
+  margin: 0px;
+}

@@ -1,0 +1,31 @@
+.repertorio {
+  width: 100%;
+  margin-top: 50px;
+  height: max-content;
+  background-color: white;
+}
+
+.cancion {
+  padding: 20px 50px;
+  border-top: #f1f4f9 solid 1px;
+  border-bottom: #f1f4f9 solid 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+article {
+  margin: 0px 60px;
+}
+
+.descripcion {
+  width: 70%;
+}
+
+.botonera {
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
