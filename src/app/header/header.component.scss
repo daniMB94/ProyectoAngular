@@ -1,0 +1,16 @@
+header {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  width: 100px;
+  background-color: #efefef;
+  border-right: #e8e8e8 solid 3px;
+}
+
+.navegacion {
+  margin-bottom: 30px;
+  display: inline-block;
+  text-decoration: none;
+  writing-mode: vertical-lr;
+  transform: rotate(180deg);
+}
